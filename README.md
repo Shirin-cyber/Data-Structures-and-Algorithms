@@ -22,46 +22,6 @@ The syllabus is divided into five modules:
 | Module 4 | Sorting and Searching |
 | Module 5 | Hands-on Programming in Data Structures |
 
-### 📂 Repository Structure
-
-```text
-Data-Structures-and-Algorithms/
-│
-├── README.md
-│
-├── Module-1/
-│   ├── README.md
-│   ├── data-structures.md
-│   ├── arrays.md
-│   └── linked-lists.md
-│
-├── Module-2/
-│   ├── README.md
-│   ├── stacks.md
-│   └── queues.md
-│
-├── Module-3/
-│   ├── README.md
-│   ├── trees.md
-│   └── graphs.md
-│
-├── Module-4/
-│   ├── README.md
-│   ├── sorting.md
-│   ├── searching.md
-│   └── hashing.md
-│
-└── Module-5/
-    ├── README.md
-    ├── linked-list-programs/
-    ├── stack-programs/
-    ├── queue-programs/
-    ├── sorting-programs/
-    └── searching-programs/
-```
-
-*The structure may evolve as I progress through the syllabus.*
-
 ## 🎯 What I'm Trying to Achieve
 
 - Understand the fundamentals of data structures and algorithms.
