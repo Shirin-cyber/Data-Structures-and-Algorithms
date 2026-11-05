@@ -67,9 +67,9 @@ By the end of this module, I aim to:
 
 ## 📌 Progress
 
-- [ ] Introduction to Stack
-- [ ] Stack Operations and Algorithms
-- [ ] Applications of Stack
+- [x] Introduction to Stack
+- [x] Stack Operations and Algorithms
+- [x] Applications of Stack
 - [ ] Stack Implementation
 - [ ] Introduction to Queue
 - [ ] Queue Operations and Algorithms
