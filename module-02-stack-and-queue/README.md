@@ -70,11 +70,11 @@ By the end of this module, I aim to:
 - [x] Introduction to Stack
 - [x] Stack Operations and Algorithms
 - [x] Applications of Stack
-- [ ] Stack Implementation
-- [ ] Introduction to Queue
-- [ ] Queue Operations and Algorithms
-- [ ] Types of Queue
-- [ ] Queue Implementation
+- [x] Stack Implementation
+- [x] Introduction to Queue
+- [x] Queue Operations and Algorithms
+- [x] Types of Queue
+- [x] Queue Implementation
 
 ---
 
