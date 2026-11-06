@@ -70,9 +70,9 @@ By the end of this module, I aim to:
 - [x] Tree Terminology and Types
 - [ ] Properties and Applications of Binary Trees
 - [x] Binary Tree Representation
-- [ ] Binary Tree Operations
-- [ ] Tree Traversals
-- [ ] Non-Recursive Traversal Algorithms
+- [x] Binary Tree Operations
+- [x] Tree Traversals
+- [x] Non-Recursive Traversal Algorithms
 - [ ] Introduction to Graphs
 - [ ] Graph Representation and Applications
 
