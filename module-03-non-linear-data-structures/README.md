@@ -66,10 +66,10 @@ By the end of this module, I aim to:
 
 ## 📌 Progress
 
-- [ ] Introduction to Trees
-- [ ] Tree Terminology and Types
+- [x] Introduction to Trees
+- [x] Tree Terminology and Types
 - [ ] Properties and Applications of Binary Trees
-- [ ] Binary Tree Representation
+- [x] Binary Tree Representation
 - [ ] Binary Tree Operations
 - [ ] Tree Traversals
 - [ ] Non-Recursive Traversal Algorithms
