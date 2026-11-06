@@ -46,7 +46,7 @@ This repository is a work in progress. I'll be adding notes and programs as I st
 |---|---|
 | Module 1 | Done |
 | Module 2 | Done |
-| Module 3 | Not started |
+| Module 3 | Started |
 | Module 4 | Not started |
 | Module 5 | Not started |
 
