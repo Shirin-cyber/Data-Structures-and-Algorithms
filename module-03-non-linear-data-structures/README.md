@@ -68,7 +68,7 @@ By the end of this module, I aim to:
 
 - [x] Introduction to Trees
 - [x] Tree Terminology and Types
-- [ ] Properties and Applications of Binary Trees
+- [x] Properties and Applications of Binary Trees
 - [x] Binary Tree Representation
 - [x] Binary Tree Operations
 - [x] Tree Traversals
