@@ -73,8 +73,8 @@ By the end of this module, I aim to:
 - [x] Binary Tree Operations
 - [x] Tree Traversals
 - [x] Non-Recursive Traversal Algorithms
-- [ ] Introduction to Graphs
-- [ ] Graph Representation and Applications
+- [x] Introduction to Graphs
+- [x] Graph Representation and Applications
 
 ---
 
